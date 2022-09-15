@@ -1,0 +1,24 @@
+{
+  "name": "bastos-commitou",
+  "version": "1.0.0",
+  "description": "A bot to discover if Gabriel Bastos made a commit today",
+  "main": "index.js",
+  "scripts": {
+    "start": "node ./index.js",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/devHelioFranco/bastoscommitou.git"
+  },
+  "author": "A tropa",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/devHelioFranco/bastoscommitou/issues"
+  },
+  "homepage": "https://github.com/devHelioFranco/bastoscommitou#readme",
+  "dependencies": {
+    "twit": "^2.2.11"
+  },
+  "type": "module"
+}
