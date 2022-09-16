@@ -18,7 +18,9 @@
   },
   "homepage": "https://github.com/devHelioFranco/bastoscommitou#readme",
   "dependencies": {
-    "twit": "^2.2.11"
+    "axios": "^0.27.2",
+    "twit": "^2.2.11",
+    "twitter-api-v2": "^1.12.7"
   },
   "type": "module"
 }
